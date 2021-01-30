@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">List View</string>
+
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>China</item>
+        <item>Russia</item>
+    </string-array>
+
+    <string name="click_here">Click Here</string>
+    <string name="country_name_here">Here is Name</string>
+</resources>
